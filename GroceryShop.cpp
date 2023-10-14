@@ -33,7 +33,7 @@ int main(){
 	float schn;
 	
 	
-	//thing:
+	//presenting costumers their options:
 	cout << "Welcome to the store \n";
 	cout << "       Items: \n";
 	cout << "  cherries - 5c ea \n";
@@ -65,7 +65,7 @@ int main(){
 	cin >> FnC;
 	
 	
-		//add the tax (damn, extra calculations)
+		//(added tax prices as a challenge)
 	if (friz > 0){
 		friz_tax = friz_tax + 5;
 	}
