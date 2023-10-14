@@ -6,7 +6,7 @@ C++ text adventure that adds up prices <br>
 The code asks you how much of an item you'd like to buy and you put in the number. </p>
 
 <h2> Details </h2>
-<p> hu </p>
+<p>  </p>
 
 <br>
 <br>
